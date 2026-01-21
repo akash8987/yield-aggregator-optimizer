@@ -1,0 +1,5 @@
+export const PROTOCOLS = {
+    AAVE_V3: "0x...",
+    COMPOUND_V3: "0x...",
+    STARKNET_BRIDGE: "0x..."
+};
