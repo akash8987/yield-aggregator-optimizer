@@ -1,0 +1,6 @@
+[
+  "function deposit(uint256 amount) external",
+  "function rebalance(address newProtocol) external",
+  "function activeProtocol() view returns (address)",
+  "function asset() view returns (address)"
+]
